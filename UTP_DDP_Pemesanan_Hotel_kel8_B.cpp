@@ -1,6 +1,11 @@
 #include <iostream>
 #include <conio.h>
 
+//anggota kelompok :
+//sinta nurhalifah
+//adinda aulia sari
+//yoel marcel siregar
+
 using namespace std;
 
 //functions
@@ -42,7 +47,7 @@ back:
                 cout<<"\t\t Alamat Email                   : "; cin>>alamat;
                 cout<<"\t\t Total yang menginap            : "; cin>>tp;  
 				cout<<"\n\n\n\n\t\t =================================================================================";                    
-                cout<<endl;
+                cout<<endl;a
                
  
  
